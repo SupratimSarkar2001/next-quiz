@@ -1,0 +1,22 @@
+.main{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ height: 100vh;
+ justify-content: center;
+ padding: 0px 40px;
+ text-align: center;
+}
+.start_button{
+  text-decoration: none;
+  color:#000000;
+  margin-top: 10px;
+  padding: 10px;
+  background-color:#1d9651;
+  border-radius: 12px;
+  font-weight: 600;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+}
+.text_h3{
+  padding: 10px 0px;
+}
